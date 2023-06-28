@@ -12,7 +12,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "https://clcrz.github.io"
+baseURL = "https://clcrz.github.io/photo/"
 publishDir = "public"
 
 # Remote
